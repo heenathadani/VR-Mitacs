@@ -8,3 +8,9 @@
 * On the Photon Pun Project Dashboard: Create a new application of Photon type PUN and give a name to your application. Click on Create and Copy the generated APP ID.
 * Head back to Unity and Paste APP ID through : Window > Photon Unity Networking > Highlight Server Setting
 #### Your Unity Client is now connected to the Unity Photon Server
+
+## Build Settings over VR Headset -
+* Head to File > Build Settings (CTRL + SHIFT + B) > Android Tab > Texture Compression (ASTC) > Run Device (Oculus Quest 2 / All Compatible Devices) > Max Texture Size (Max 2048) > Switch Platform
+* Build and Run (CTRL + B) 
+
+#### You can now view a player connected to the server. 
